@@ -3,3 +3,4 @@ Evaluation tasks for DeepLense projects GSOC 2022. The repository contains solut
 1. Common Task I: Multiclass Classification
 2. Specific Tast III: Learning Mass of Dark Matter Halo
 3. Specific Task IV: Exploring Equivariant Neural Network
+4. Specific Test V. Exploring Transformers
